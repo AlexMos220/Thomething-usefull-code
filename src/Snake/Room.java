@@ -4,7 +4,7 @@ package Snake;
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 
-public class Room {
+public class Room  {
     private int width;
     private int height;
     private Snake snake;
